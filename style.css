@@ -1,0 +1,14 @@
+*{
+    background-color:rgb(34, 110, 196);
+}
+.menu{
+    background-color: brown;
+    display:flex;
+    justify-content: space-between;
+}
+.content{
+    border: solid;
+    border-color: black;
+    display:flex;
+    justify-content: space-around; 
+}
